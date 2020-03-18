@@ -1,0 +1,3 @@
+[submodule "HandsOnCpp/TinySTL"]
+	path = HandsOnCpp/TinySTL
+	url = https://github.com/LiyangLingIntel/TinySTL.git
