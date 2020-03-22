@@ -108,5 +108,8 @@ venv.bak/
 # pycharm
 .idea/
 
+# clion
+**/cmake-build-debug/
+
 # mac
 **/.DS_Store
